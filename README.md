@@ -65,5 +65,5 @@ delay(1000);
 ## Team
 * I did Eveything
 ## Credit
-* Trevor Tomesh(For proect)
+* Trevor Tomesh(For project)
 * Andre Santos(for pointing the errors in code)
